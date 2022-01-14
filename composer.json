@@ -1,5 +1,5 @@
 {
-    "name": "thecodingmachine/phpstan-safe-rule",
+    "name": "dbrekelmans/phpstan-safe-rule",
     "description": "A PHPStan rule to detect safety issues. Must be used in conjunction with thecodingmachine/safe",
     "type": "phpstan-extension",
     "license": "MIT",
